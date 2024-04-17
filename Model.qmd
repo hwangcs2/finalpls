@@ -4,7 +4,6 @@ title: "Model"
 
 ```{r}
 library(reticulate)
-
 ```
 
 ```{python}
