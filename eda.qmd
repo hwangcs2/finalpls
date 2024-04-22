@@ -3,7 +3,7 @@ title: "Exploratory Data Analysis of Penguin Set"
 ---
 
 ```{r}
-renv::init()
+# renv::init()
 ```
 
 # Penguin Size and Mass
@@ -50,5 +50,5 @@ dbDisconnect(con, shutdown = TRUE)
 ```
 
 ```{r}
-renv::snapshot()
+# renv::snapshot()
 ```
